@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086274914948",
+    "project_id": "weatherize-500a4",
+    "storage_bucket": "weatherize-500a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086274914948:android:0adcc544dea9437c01d0d1",
+        "android_client_info": {
+          "package_name": "com.example.mad_weatherize"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnTbBnqCIGMW4MBG8wBASP79tC9fcDwjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
